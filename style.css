@@ -23,7 +23,7 @@ body{
 	top: 0;
 	left: 0;
 	width: 100%;
-	height: 70px;
+	height: 60px;
     line-height: 1;		
 	background: #1C2029;
 	background-image: url('./img/a62.bmp');
@@ -31,14 +31,14 @@ body{
   }
 
   .scrollable-div {
-	margin-top: 70px;
+	margin-top: 60px;
 	overflow: auto;
   }
 
 
 #site-header {
 	display: block;
-	min-height: 70px;
+	min-height: 60px;
 	position: relative;
 }
 .container {
@@ -86,7 +86,7 @@ body{
 	font-size: 2.2rem;
 	font-weight:900;
 	letter-spacing: 5px;
-	line-height: 1.3;
+	line-height: 1;
 	margin: 0;
 	padding: 0;	
 }
@@ -101,7 +101,7 @@ body{
 	font-size: 1rem;
 	font-weight: 700;
 	letter-spacing: 2px;
-	line-height: 1.3;
+	line-height: 1.2;
 	margin: 0;
 	padding: 0;	
 }
